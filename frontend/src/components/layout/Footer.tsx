@@ -1,6 +1,5 @@
-import React from "react";
-import { Box, Typography } from "@mui/material";
 import FavoriteIcon from "@mui/icons-material/Favorite";
+import { Box, Typography } from "@mui/material";
 
 const Footer = () => {
   const currentYear = new Date().getFullYear();

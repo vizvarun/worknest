@@ -1,10 +1,9 @@
-import React from "react";
 import {
-  Dialog,
-  DialogTitle,
-  DialogContent,
-  DialogActions,
   Button,
+  Dialog,
+  DialogActions,
+  DialogContent,
+  DialogTitle,
   Typography,
 } from "@mui/material";
 
@@ -39,4 +38,4 @@ const ConfirmDialog = ({
   );
 };
 
-export default ConfirmDialog; 
+export default ConfirmDialog;
